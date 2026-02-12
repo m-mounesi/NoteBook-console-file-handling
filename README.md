@@ -6,7 +6,7 @@ A simple Java console application that allows users to write multi-line notes, s
 ---
 
 ## ✨ Features
-- Write notes line by line until typing `exit`
+- Write notes line by line until typing `save` in next line
 - Save notes to a text file
 - Read notes from the file
 - Handles file I/O exceptions gracefully
