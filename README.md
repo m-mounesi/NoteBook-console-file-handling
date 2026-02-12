@@ -1,4 +1,4 @@
-# 📝 Console Note-Taking App
+# 📝 Console Note App
 
 **Description:**  
 A simple Java console application that allows users to write multi-line notes, save them to a `.txt` file, and read them later. Includes basic error handling for file operations.
